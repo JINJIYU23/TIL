@@ -4,7 +4,7 @@ JSX는 html 대신 사용하는 html같은 언어
 
 - html에 class를 넣을 땐 className
 
-```jsx
+```javascript
       <div className = "black-nav">
         <h4 style = {{ color:'red', fontSize : '16px' }}>블로그</h4>
       </div>
@@ -15,7 +15,7 @@ JSX는 html 대신 사용하는 html같은 언어
     여기저기 사용할 수 있음
     
 
-```
+```javascript
 let post = '강남 우동 맛집';
   
 
@@ -27,7 +27,7 @@ let post = '강남 우동 맛집';
       <h4>{ post }</h4>
     </div>
   );
-}
+
 ```
 
 - html 에 css속성을 넣고 싶으면 style = {{ }}
