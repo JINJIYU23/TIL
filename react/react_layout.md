@@ -34,7 +34,7 @@ let post = '강남 우동 맛집';
     
     { 속성명 : '속성값' }
     
-    font-size 처럼 대쉬 기호를 쓸 수 없기 때문에 fontSize 이런식으로 써야함
+    font-size 처럼 대쉬 기호를 쓸 수 없기 때문에 fontSize 이런식으로 써야함.
     
 
 ```jsx
