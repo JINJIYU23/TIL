@@ -32,7 +32,7 @@
 
 → length가 3이라 3번 담아줌
 
-![image.png](image.png)
+![image.png](../image/react_map.png)
 
 - map()은 반복문의 기능도 할 수 있어서 반복되는 html자료를 축약하여 나타낼 수 있다.
 
