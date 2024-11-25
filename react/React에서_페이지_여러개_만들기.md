@@ -26,7 +26,7 @@ import { Routes, Route, Link } from 'react-router-dom';
 
 function App(){
   return (
-    (생략)
+    //(생략)
     <Routes>
 	    <Route path="/" element={ <div>메인페이지에서 보여줄거</div> } /> 
       <Route path="/detail" element={ <div>상세페이지</div> } />
