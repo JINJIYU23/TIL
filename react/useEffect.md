@@ -117,7 +117,7 @@ useEffect(()=>{
 
 ---
 
-<input> 에 입력한 값이 숫자가 아니면 alert박스 띄우기
+input 에 입력한 값이 숫자가 아니면 alert박스 띄우기
 
 ```jsx
 function Detail(props) {
