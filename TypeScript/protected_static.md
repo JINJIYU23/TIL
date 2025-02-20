@@ -121,4 +121,4 @@ User.addOne(4) //이렇게 하면 x가 4 더해져야함
 User.printX()
 ```
 
-![image.png](/image/image.png)
+![image.png]
